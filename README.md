@@ -1,2 +1,2 @@
 # Canvas3dCube
-Draw a small cube sliders
+Draw a small cube using canvas
