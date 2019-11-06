@@ -4,7 +4,7 @@ document.getElementById('main').innerHTML = '<canvas width="1000" height="500" c
 const canvas = document.querySelector('.canvas');
 const ctx = canvas.getContext('2d');
 let x0 = 300;
-let y0 = 300;
+let y0 = 400;
 let cube = {
     x : 0,
     y : 0,
